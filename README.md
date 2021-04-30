@@ -1,7 +1,7 @@
 # Write-a-Data-Science-Blog-Post
 Udacity Data Scientists Nanodegree Blog Post
 
-## Medium Blog Post
+### Medium Blog Post
 Here is the Medium blog post I have written: https://medium.com/p/5dc0ffb55530/edit
 
 ### Project Motivation
