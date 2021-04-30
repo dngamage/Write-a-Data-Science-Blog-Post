@@ -11,12 +11,12 @@ I have used Australian base the StarTravel Travel Agent company Data set for the
 
 # This project focuses on answering following questions: 
 
-## What are the most popular destinations in the world ? 
-## What are the guess pattern combinations when renting Hotels?
-## What is the most popular stay period in Hotels?
-## What are the most popular departure dates during the next year?
-## What are the most influential features of the dataset to Predict next 6 month travelling  in the world ?
-## What can be predicted post COVID-19 ?
+What are the most popular destinations in the world ? 
+What are the guess pattern combinations when renting Hotels?
+What is the most popular stay period in Hotels?
+What are the most popular departure dates during the next year?
+What are the most influential features of the dataset to Predict next 6 month travelling  in the world ?
+What can be predicted post COVID-19 ?
 
 # Libraries
 I use Python3. Here are the libraries I used in my Jupyter Notebook:
