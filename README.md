@@ -28,7 +28,7 @@ I use Python3. Here are the libraries I used in my Jupyter Notebook:
 - Pandas
 - Sklearn
 - Seaborn
-- matplotlib.pyplot
+- Matplotlib.pyplot
 - Collections
 - Math
 
