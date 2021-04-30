@@ -4,6 +4,9 @@ Udacity Data Scientists Nanodegree Blog Post
 ### Medium Blog Post
 Here is the Medium blog post I have written: https://medium.com/p/5dc0ffb55530/edit
 
+### Installation
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+
 ### Project Motivation
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientists Nanodegree Program.
 
@@ -29,7 +32,9 @@ I use Python3. Here are the libraries I used in my Jupyter Notebook:
 - Collections
 - Math
 
-startravel.csv Original dataset in csv format
+### File Descriptions
+startravel.csv contains lastest traveking details during last 2 month(03/2021, 04/2021).
+There is also a notebook available here to showcsae all my work related to all  questions.
 
 ### Acknowledgements
 Must give credit to Udacity courses for some of code ideas, and to StarTravel  for the data. 
