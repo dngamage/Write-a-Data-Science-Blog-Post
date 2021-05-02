@@ -18,7 +18,7 @@ I have used Australian base of the StarTravel Travel Agent company Data set for 
 - What are the guess pattern combinations when renting Hotels?
 - What is the most popular stay period in Hotels?
 - What are the most popular departure dates during the future?
-- What are the most influential features of the dataset to Predict next 6 month travelling  in the world ?
+- What are the most influential features of the dataset to Predict future travelling  in the world ?
 
 
 ### Libraries
