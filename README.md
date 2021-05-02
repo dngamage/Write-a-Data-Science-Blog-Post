@@ -2,7 +2,7 @@
 Udacity Data Scientists Nanodegree Blog Post
 
 ### Medium Blog Post
-Here is the Medium blog post I have written: https://medium.com/p/5dc0ffb55530/edit
+Here is the Medium blog post I have written: https://dharshana-gamage.medium.com/startravel-hotels-sales-analysis-5dc0ffb55530
 
 ### Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
