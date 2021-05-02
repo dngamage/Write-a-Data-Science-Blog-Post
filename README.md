@@ -17,9 +17,9 @@ I have used Australian base of the StarTravel Travel Agent company Data set for 
 - What are the most popular destinations in the world ? 
 - What are the guess pattern combinations when renting Hotels?
 - What is the most popular stay period in Hotels?
-- What are the most popular departure dates during the next year?
+- What are the most popular departure dates during the future?
 - What are the most influential features of the dataset to Predict next 6 month travelling  in the world ?
-- What can be predicted post COVID-19 ?
+
 
 ### Libraries
 I use Python3. Here are the libraries I used in my Jupyter Notebook:
@@ -33,7 +33,7 @@ I use Python3. Here are the libraries I used in my Jupyter Notebook:
 - Math
 
 ### File Descriptions
-startravel.csv contains the latest traveling details during the last 2 month(03/2021, 04/2021).
+startravel.csv contains the latest traveling details during the last 2 month(03/2021, 04/2021). Note that since data file is around 32MB it zip by winrar before upload.
 There is also a notebook available here to showcase all my work related to all  questions.
 
 ### Acknowledgements
